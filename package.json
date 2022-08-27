@@ -1,0 +1,23 @@
+{
+  "name": "patica-homework-react-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatihBARACKILIC/patica-homework-react-intro.git"
+  },
+  "author": "Fatih BARAÇKILIÇ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FatihBARACKILIC/patica-homework-react-intro/issues"
+  },
+  "homepage": "https://github.com/FatihBARACKILIC/patica-homework-react-intro#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "type": "module"
+}
